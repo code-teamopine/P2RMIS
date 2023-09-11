@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/
+bin/
+debug/
+Debug/
+obj/
+Release/
+/build/
+*.suo
+*.user
+*.sdf
+/.vs/Henu/v16
+/.vs/Henu/v16
+/BLL/obj
+/.cr/personal/Navigation
+/BLLTest/obj
+/P2RMISDB.bak
+/.cr/personal/FavoritesList
+/.cr/personal/FavoritesList
+/packages/IPAddressRange.4.1.2
+/Database
